@@ -1,3 +1,4 @@
+[Hadoop record codes.txt](https://github.com/Pavithra0022/Hadoop_codes/files/10094418/Hadoop.record.codes.txt)
 # Hadoop_codes# 
 20BCAB22
 PAVITHRA A
